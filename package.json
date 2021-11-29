@@ -1,0 +1,20 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Pig game, rolling the dices",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnoldasSvirskis/pig-game.git"
+  },
+  "author": "Arnoldas Svirskis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnoldasSvirskis/pig-game/issues"
+  },
+  "homepage": "https://github.com/ArnoldasSvirskis/pig-game#readme"
+}
