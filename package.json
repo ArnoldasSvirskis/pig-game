@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ArnoldasSvirskis/pig-game/issues"
   },
-  "homepage": "https://github.com/ArnoldasSvirskis/pig-game#readme"
+  "homepage": "https://github.com/ArnoldasSvirskis/pig-game#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
 }
