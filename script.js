@@ -69,7 +69,7 @@ btnHold.addEventListener('click', function () {
 
     //switchPlayer();
 
-    if (scores[activePlayer] >= 50) {
+    if (scores[activePlayer] >= 20) {
       //finish the game
       playing = false;
 
