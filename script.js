@@ -1,4 +1,7 @@
 'use strict';
+// import icons from 'url:/icons/dice-1.png';
+
+// console.log(icons);
 
 //selecting elements
 
@@ -46,7 +49,8 @@ btnRoll.addEventListener('click', function () {
 
     diceEl.classList.remove('hidden');
 
-    diceEl.src = `dice-${dice}.png`;
+    diceEl.src = `icons/dice-${dice}.png`;
+    console.log(diceEl.src);
 
     if (dice !== 1) {
       //add dice to current score

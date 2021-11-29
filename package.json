@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ArnoldasSvirskis/pig-game#readme",
   "devDependencies": {
-    "parcel": "^2.0.1"
+    "parcel": "^2.0.1",
+    "parcel-plugin-static-files-copy": "^2.6.0"
   }
 }
