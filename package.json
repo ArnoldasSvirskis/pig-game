@@ -20,5 +20,8 @@
   "devDependencies": {
     "parcel": "^2.0.1",
     "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "staticFiles": {
+    "staticPath": "icons"
   }
 }
